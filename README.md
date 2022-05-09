@@ -1,1 +1,1 @@
-# conhecendo o git e o github
+# conhecendo o git e o github, ajustes basicos na config.
