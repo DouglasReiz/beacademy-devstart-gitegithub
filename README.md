@@ -20,4 +20,3 @@ o objetivo desse projeto é listar os comandos mais utilizados do git e qual o o
 - git stach list (Para ver as stashes que você guardou)
 - git stach pop (faz as alterações q estavam separadas voltarem a branch)
 - git stach pop stach@{1} (aplica stach específico)
--
